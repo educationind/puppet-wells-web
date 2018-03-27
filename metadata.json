@@ -1,0 +1,18 @@
+{
+  "name": "kmk-httpd",
+  "version": "0.1.0",
+  "author": "Murali Krishna K openshift.murali@gmail.com",
+  "summary": "https://github.com/educationind/puppet-web-wells",
+  "license": "Apache-2.0",
+  "source": "https://github.com/educationind/puppet-web-wells",
+  "project_page": "https://github.com/educationind/puppet-web-wells",
+  "issues_url": "https://github.com/educationind/puppet-web-wells/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
